@@ -1,0 +1,15 @@
+# Java / Maven
+target/
+out/
+*.class
+
+# Local application data may contain guest details
+stayflow-data.bin
+*.tmp
+
+# IDE / operating system
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
