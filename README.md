@@ -30,8 +30,8 @@ mvn -version
 ## Run locally
 
 ```bash
-git clone <your-repository-url>
-cd stayflow-property-management
+git clone https://github.com/walidwh21/Property-Management
+cd Property-Management
 mvn clean package
 mvn exec:java
 ```
